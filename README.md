@@ -1,12 +1,11 @@
-To-Do List Website
+To-Do List Website<b>
 <br>
 Welcome to my To-Do List Website! This project is a simple, interactive, and user-friendly application that helps users manage their daily tasks efficiently.
 <br>
-Features<br>
+Features<b><br>
 Add Tasks: Quickly add tasks to your to-do list.<br>
-
 Mark as Completed: Easily mark tasks as completed.<br>
 Delete Tasks: Remove tasks when no longer needed.<br>
+![Screenshot (19)](https://github.com/user-attachments/assets/4d16a872-3726-4df5-9a6e-e445ef86e176)
 
-![image](https://github.com/user-attachments/assets/e798b9c3-f8e1-4c52-801c-11de7e737309)
 
